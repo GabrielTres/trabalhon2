@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54170963215",
+    "project_id": "trabalhon2-fdc8a",
+    "storage_bucket": "trabalhon2-fdc8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54170963215:android:e8979af322a3ca3d81427a",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_n_dois"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwX2UKv4U5Wo2MkuXpbLm_MuvFdx9R9Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
